@@ -736,7 +736,7 @@ img {
 }
 
 .portfolio__content {
-    display: flex;
+    display: none;
     height: 100%;
     flex-direction: column;
     background-color: #FFF;
